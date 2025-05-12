@@ -2,10 +2,10 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo José Vitor, tenho 17 anos e estou cursando Técnico em Desenvolvimento de Sistemas no SENAI. Sou um resolvedor de problemas, que por meio da tecnologia busco cada vez mais me aprimorar. Compartilho meu conhecimento através do meu perfil no Linkedin "[José Vitor](www.linkedin.com/in/josé-vitor-masiero)", onde conto meus desafios e projetos que estou desenvolvendo.
+Me chamo José Vitor, tenho 17 anos e estou cursando Técnico em Desenvolvimento de Sistemas no SENAI. Sou um resolvedor de problemas, que por meio da tecnologia busco cada vez mais me aprimorar. Compartilho meu conhecimento através do meu perfil no Linkedin "[José Vitor](https://linkedin.com/in/josé-vitor-masiero)", onde conto meus desafios e projetos que estou desenvolvendo.
 
 <p align="left">
-    <a href="www.linkedin.com/in/josé-vitor-masiero">
+    <a href="https://linkedin.com/in/josé-vitor-masiero">
         <img 
             alt="Linkedin Subs" 
             title="Conecte-se comigo no LinkedIn!" 
