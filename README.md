@@ -12,7 +12,7 @@ Me chamo José Vitor, tenho 17 anos e estou cursando Técnico em Desenvolvimento
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue?style=for-the-badge&logo=linke&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="mailto:masierojosevitor456@gmail.com?subject=Entrar+em+contato&body=Oi,+vim+pelo+Github!">
         <img 
             alt="Contato" 
             title="Meu Email" 
