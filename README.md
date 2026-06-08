@@ -1,8 +1,8 @@
 # José Vitor Masiero
 
-**Desenvolvedor Backend Júnior** em formação técnica pelo **SENAI**, com foco em APIs REST, autenticação, banco de dados e integrações entre sistemas.
+**QA Pleno** com foco em qualidade de software, testes de APIs, análise de requisitos, melhoria de processos e uso de IA para acelerar validação, documentação e produtividade.
 
-Gosto de transformar regras de negócio em aplicações simples, organizadas e testáveis. Hoje estudo e construo projetos com Java/Spring Boot, Python/FastAPI/Django, PostgreSQL, Docker e React/TypeScript.
+Atuo olhando para o produto de ponta a ponta: entendo regra de negócio, questiono cenários, valido fluxos críticos e busco reduzir risco antes da entrega. Também sou entusiasta de Inteligência Artificial e mantenho projetos próprios para estudar automação, agentes, integrações e aplicações práticas de IA.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-masiero/">
@@ -15,38 +15,65 @@ Gosto de transformar regras de negócio em aplicações simples, organizadas e t
 
 ---
 
-## Stack principal
+## Foco profissional
 
-**Backend:** Java, Spring Boot, Python, FastAPI, Django, Node.js  
+- Qualidade de software e melhoria contínua
+- Testes funcionais, exploratórios e regressivos
+- Validação de APIs REST e fluxos backend
+- Análise de requisitos, regras de negócio e cenários de teste
+- Documentação técnica e evidências de teste
+- Automação e uso de IA aplicada ao ciclo de qualidade
+- Integração entre QA, desenvolvimento e produto
+
+---
+
+## Stack e ferramentas que estudo/uso em projetos
+
+**QA e produto:** cenários de teste, critérios de aceite, evidências, análise de bugs, validação de APIs  
+**Backend/APIs:** Java, Spring Boot, Python, FastAPI, Django, Node.js, REST, JWT  
 **Banco de dados:** PostgreSQL, MySQL, H2  
-**APIs e segurança:** REST, JWT, Spring Security, autenticação, integrações externas  
 **Frontend:** TypeScript, React, Vite, Tailwind CSS  
 **Ferramentas:** Git, GitHub, Docker, Maven, npm  
-**Outros interesses:** automação, visão computacional, previsão de demanda e IA aplicada
+**IA aplicada:** automações, agentes, integrações, análise de dados e assistentes para produtividade
 
 ---
 
 ## Projetos em destaque
 
-| Projeto | Stack | O que demonstra |
+| Projeto | Área | O que demonstra |
 |---|---|---|
-| [login-auth-api](https://github.com/vitor-masiero/login-auth-api) | Java, Spring Boot, JWT, PostgreSQL, Docker | API REST com autenticação, autorização por roles e arquitetura em camadas |
-| [liderhub-trello-api](https://github.com/vitor-masiero/liderhub-trello-api) | Python, FastAPI, Trello API, Docker | Integração entre sistemas, webhooks, validação de dados e automação de fluxo comercial |
-| [Python-FacePass](https://github.com/vitor-masiero/Python-FacePass) | Python, Django REST, OpenCV, PostgreSQL | Controle de acesso com reconhecimento facial e estrutura modular de backend |
-| [tigre-forecasting](https://github.com/vitor-masiero/tigre-forecasting) | FastAPI, React, pandas, XGBoost | Sistema full-stack para previsão de demanda/vendas e visualização de dados |
-| [portfolio](https://github.com/vitor-masiero/portfolio) | React, TypeScript, Vite, Express | Portfólio pessoal full-stack com UI moderna e backend serverless |
-| [Estacao-Meterologica](https://github.com/vitor-masiero/Estacao-Meterologica) | Java, Spring Boot, JPA, MySQL/H2 | API para cadastro e consulta de dados de sensores meteorológicos |
+| [login-auth-api](https://github.com/vitor-masiero/login-auth-api) | API / Segurança | Autenticação, autorização por roles, JWT, PostgreSQL e cenários importantes para validação de backend |
+| [liderhub-trello-api](https://github.com/vitor-masiero/liderhub-trello-api) | Integração / Automação | API FastAPI integrando leads ao Trello, útil para validar webhooks, contratos e regras de negócio |
+| [Python-FacePass](https://github.com/vitor-masiero/Python-FacePass) | IA / Visão computacional | Controle de acesso com reconhecimento facial, Django REST, OpenCV/MediaPipe/Dlib e PostgreSQL |
+| [tigre-forecasting](https://github.com/vitor-masiero/tigre-forecasting) | Dados / IA | Protótipo full-stack para previsão de demanda/vendas com FastAPI, React, pandas e XGBoost |
+| [portfolio](https://github.com/vitor-masiero/portfolio) | Produto / Frontend | Portfólio pessoal full-stack com React, TypeScript, Vite e backend serverless |
+| [Estacao-Meterologica](https://github.com/vitor-masiero/Estacao-Meterologica) | API / IoT | API Spring Boot para dados de sensores meteorológicos, persistência e validação de regras |
+
+---
+
+## O que busco
+
+Oportunidades como **QA Pleno**, **Analista de Qualidade**, **QA Engineer** ou posições que combinem qualidade de software com automação, APIs e IA aplicada.
+
+Tenho interesse especial em times que valorizam:
+
+- qualidade desde a descoberta do produto;
+- colaboração entre QA, dev e negócio;
+- testes em APIs e fluxos críticos;
+- automação pragmática;
+- uso responsável de IA para aumentar produtividade e cobertura de análise.
 
 ---
 
 ## Em evolução
 
-Atualmente aprofundo:
+Atualmente estou melhorando meus projetos para deixar mais claro:
 
-- boas práticas em APIs REST e arquitetura backend;
-- testes automatizados e documentação técnica;
-- segurança com JWT, variáveis de ambiente e controle de acesso;
-- deploy, Docker e organização de repositórios para produção.
+- documentação de cenários de teste;
+- estratégia de QA por projeto;
+- exemplos de payloads, casos de teste e evidências;
+- automações e validações com IA;
+- READMEs mais objetivos para recrutadores e times técnicos.
 
 ---
 
