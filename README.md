@@ -1,153 +1,65 @@
-# 👩🏻‍💻 Vitor Masiero
+# José Vitor Masiero
 
-**`Desenvolvedor Backend`**
+**Desenvolvedor Backend Júnior** em formação técnica pelo **SENAI**, com foco em APIs REST, autenticação, banco de dados e integrações entre sistemas.
 
-Me chamo José Vitor, tenho 17 anos e estou cursando Técnico em Desenvolvimento de Sistemas no SENAI. Sou um resolvedor de problemas, que por meio da tecnologia busco cada vez mais me aprimorar. Compartilho meu conhecimento através do meu perfil no Linkedin "[José Vitor](https://linkedin.com/in/josé-vitor-masiero)", onde conto meus desafios e projetos que estou desenvolvendo.
+Gosto de transformar regras de negócio em aplicações simples, organizadas e testáveis. Hoje estudo e construo projetos com Java/Spring Boot, Python/FastAPI/Django, PostgreSQL, Docker e React/TypeScript.
 
 <p align="left">
-    <a href="https://linkedin.com/in/josé-vitor-masiero">
-        <img 
-            alt="Linkedin Subs" 
-            title="Conecte-se comigo no LinkedIn!" 
-            src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue?style=for-the-badge&logo=linke&logoColor=white"
-        />
-    </a>
-    <a href="mailto:masierojosevitor456@gmail.com?subject=Entrar+em+contato&body=Oi,+vim+pelo+Github!">
-        <img 
-            alt="Contato" 
-            title="Meu Email" 
-            src="https://custom-icon-badges.demolab.com/badge/-meu Email-red?style=for-the-badge&logo=gmail&logoColor=black&"
-        />
-    </a> 
-    <a href="https://github.com/vitor-masiero?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/-Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
-        />
-    </a>
-    <a href="https://github.com/vitor-masiero?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=red&labelColor=yellow&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-masiero/">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white">
+  </a>
+  <a href="mailto:masierojosevitor456@gmail.com?subject=Contato%20pelo%20GitHub">
+    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Stack principal
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"     
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;"   
-/>
-<img 
-    align="left" 
-    alt="Spring Framework" 
-    title="Spring Framework"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="DjangoRESTFramework" 
-    title="DjangoRESTFramework"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+**Backend:** Java, Spring Boot, Python, FastAPI, Django, Node.js  
+**Banco de dados:** PostgreSQL, MySQL, H2  
+**APIs e segurança:** REST, JWT, Spring Security, autenticação, integrações externas  
+**Frontend:** TypeScript, React, Vite, Tailwind CSS  
+**Ferramentas:** Git, GitHub, Docker, Maven, npm  
+**Outros interesses:** automação, visão computacional, previsão de demanda e IA aplicada
 
+---
 
+## Projetos em destaque
 
-<br/>
-<br/>
+| Projeto | Stack | O que demonstra |
+|---|---|---|
+| [login-auth-api](https://github.com/vitor-masiero/login-auth-api) | Java, Spring Boot, JWT, PostgreSQL, Docker | API REST com autenticação, autorização por roles e arquitetura em camadas |
+| [liderhub-trello-api](https://github.com/vitor-masiero/liderhub-trello-api) | Python, FastAPI, Trello API, Docker | Integração entre sistemas, webhooks, validação de dados e automação de fluxo comercial |
+| [Python-FacePass](https://github.com/vitor-masiero/Python-FacePass) | Python, Django REST, OpenCV, PostgreSQL | Controle de acesso com reconhecimento facial e estrutura modular de backend |
+| [tigre-forecasting](https://github.com/vitor-masiero/tigre-forecasting) | FastAPI, React, pandas, XGBoost | Sistema full-stack para previsão de demanda/vendas e visualização de dados |
+| [portfolio](https://github.com/vitor-masiero/portfolio) | React, TypeScript, Vite, Express | Portfólio pessoal full-stack com UI moderna e backend serverless |
+| [Estacao-Meterologica](https://github.com/vitor-masiero/Estacao-Meterologica) | Java, Spring Boot, JPA, MySQL/H2 | API para cadastro e consulta de dados de sensores meteorológicos |
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vitor-masiero&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## Em evolução
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-masiero&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+Atualmente aprofundo:
 
+- boas práticas em APIs REST e arquitetura backend;
+- testes automatizados e documentação técnica;
+- segurança com JWT, variáveis de ambiente e controle de acesso;
+- deploy, Docker e organização de repositórios para produção.
+
+---
+
+## Métricas
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vitor-masiero&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-masiero&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
 </p>
+
+---
+
+## Contato
+
+- LinkedIn: [josé-vitor-masiero](https://www.linkedin.com/in/jos%C3%A9-vitor-masiero/)
+- Email: [masierojosevitor456@gmail.com](mailto:masierojosevitor456@gmail.com)
