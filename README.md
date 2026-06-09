@@ -77,15 +77,6 @@ Atualmente estou melhorando meus projetos para deixar mais claro:
 
 ---
 
-## Métricas
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vitor-masiero&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-masiero&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ## Contato
 
 - LinkedIn: [josé-vitor-masiero](https://www.linkedin.com/in/jos%C3%A9-vitor-masiero/)
