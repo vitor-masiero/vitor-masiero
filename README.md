@@ -1,83 +1,99 @@
-# José Vitor Masiero
+# José Vitor Masiero da Silva
+### SDET & Quality Automation Engineer | Shift-Left, AI-Powered QA & Cloud Automation
 
-**QA Pleno** com foco em qualidade de software, testes de APIs, análise de requisitos, melhoria de processos e uso de IA para acelerar validação, documentação e produtividade.
-
-Atuo olhando para o produto de ponta a ponta: entendo regra de negócio, questiono cenários, valido fluxos críticos e busco reduzir risco antes da entrega. Também sou entusiasta de Inteligência Artificial e mantenho projetos próprios para estudar automação, agentes, integrações e aplicações práticas de IA.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-masiero/">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white">
-  </a>
-  <a href="mailto:masierojosevitor456@gmail.com?subject=Contato%20pelo%20GitHub">
-    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=white">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-vitor-masiero)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masierojosevitor456@gmail.com)
+[![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/jose-vitor-masiero)
+[![OCI Certified](https://img.shields.io/badge/Oracle-OCI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.linkedin.com/in/jose-vitor-masiero)
 
 ---
 
-## Foco profissional
+### About & Engineering Mindset
 
-- Qualidade de software e melhoria contínua
-- Testes funcionais, exploratórios e regressivos
-- Validação de APIs REST e fluxos backend
-- Análise de requisitos, regras de negócio e cenários de teste
-- Documentação técnica e evidências de teste
-- Automação e uso de IA aplicada ao ciclo de qualidade
-- Integração entre QA, desenvolvimento e produto
+I treat **tests as a product** and quality as an **engineering decision**, not a final checkpoint.
+
+Coming from a developer background — building backend applications with **Java (Spring Boot)** and **Python (FastAPI)**, alongside frontends in **React** and **Angular** — I do not just test against UI elements; I inspect the codebase. Understanding how software is built beneath the surface allows me to catch edge cases, undocumented API contracts, and architectural design flaws before they reach production.
+
+Currently, I focus on advancing Quality Engineering into autonomous workflows: **AI-Powered QA**. I orchestrate AI agents, integrate **MCP (Model Context Protocol)** with Playwright & Cypress, and leverage **Claude Code**, RAG, and context engineering to build semantic-aware testing pipelines that accelerate regression and exploratory testing.
 
 ---
 
-## Stack e ferramentas que estudo/uso em projetos
+### Technical Stack
 
-**QA e produto:** cenários de teste, critérios de aceite, evidências, análise de bugs, validação de APIs  
-**Backend/APIs:** Java, Spring Boot, Python, FastAPI, Django, Node.js, REST, JWT  
-**Banco de dados:** PostgreSQL, MySQL, H2  
-**Frontend:** TypeScript, React, Vite, Tailwind CSS  
-**Ferramentas:** Git, GitHub, Docker, Maven, npm  
-**IA aplicada:** automações, agentes, integrações, análise de dados e assistentes para produtividade
+#### Test Automation & Quality Engineering
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-000000?style=for-the-badge&logo=java&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
----
+#### AI Engineering & Autonomous Workflows
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6B46C1?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-Anthropic-D97706?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Orchestration-059669?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Context_Engineering-2563EB?style=for-the-badge)
 
-## Projetos em destaque
+#### Programming Languages & Databases
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL%2FOracle%2FMySQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-| Projeto | Área | O que demonstra |
-|---|---|---|
-| [login-auth-api](https://github.com/vitor-masiero/login-auth-api) | API / Segurança | Autenticação, autorização por roles, JWT, PostgreSQL e cenários importantes para validação de backend |
-| [liderhub-trello-api](https://github.com/vitor-masiero/liderhub-trello-api) | Integração / Automação | API FastAPI integrando leads ao Trello, útil para validar webhooks, contratos e regras de negócio |
-| [Python-FacePass](https://github.com/vitor-masiero/Python-FacePass) | IA / Visão computacional | Controle de acesso com reconhecimento facial, Django REST, OpenCV/MediaPipe/Dlib e PostgreSQL |
-| [tigre-forecasting](https://github.com/vitor-masiero/tigre-forecasting) | Dados / IA | Protótipo full-stack para previsão de demanda/vendas com FastAPI, React, pandas e XGBoost |
-| [portfolio](https://github.com/vitor-masiero/portfolio) | Produto / Frontend | Portfólio pessoal full-stack com React, TypeScript, Vite e backend serverless |
-| [Estacao-Meterologica](https://github.com/vitor-masiero/Estacao-Meterologica) | API / IoT | API Spring Boot para dados de sensores meteorológicos, persistência e validação de regras |
-
----
-
-## O que busco
-
-Oportunidades como **QA Pleno**, **Analista de Qualidade**, **QA Engineer** ou posições que combinem qualidade de software com automação, APIs e IA aplicada.
-
-Tenho interesse especial em times que valorizam:
-
-- qualidade desde a descoberta do produto;
-- colaboração entre QA, dev e negócio;
-- testes em APIs e fluxos críticos;
-- automação pragmática;
-- uso responsável de IA para aumentar produtividade e cobertura de análise.
+#### Cloud, DevOps & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Em evolução
+### Core Engineering Principles
 
-Atualmente estou melhorando meus projetos para deixar mais claro:
-
-- documentação de cenários de teste;
-- estratégia de QA por projeto;
-- exemplos de payloads, casos de teste e evidências;
-- automações e validações com IA;
-- READMEs mais objetivos para recrutadores e times técnicos.
+- **Shift-Left Testing:** Collaborating on acceptance criteria and spec reviews with PMs/Devs prior to implementation.
+- **Continuous Quality in CI/CD:** Automated regression suites running on every Pull Request via GitHub Actions.
+- **Contract & Data Integrity Validation:** REST API contract validation and SQL-based staging data integrity verification.
+- **AI-Accelerated Workflows:** Building custom MCP-based tooling to automate repetitive QA tasks and expand edge-case coverage.
 
 ---
 
-## Contato
+### Certifications & Credentials
 
-- LinkedIn: [josé-vitor-masiero](https://www.linkedin.com/in/jos%C3%A9-vitor-masiero/)
-- Email: [masierojosevitor456@gmail.com](mailto:masierojosevitor456@gmail.com)
+- **AWS Certified Cloud Practitioner** (Amazon Web Services)
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** (Oracle)
+- **API Security Fundamentals** (APIsec University)
+- **EF SET English Certificate — C1 Advanced** (Professional Working Proficiency)
+
+---
+
+### Showcase Projects
+
+| Project | Description | Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **Cypress E2E Suite** | E2E automation framework for SaaS products, featuring Page Object Model, API mocks, and Mochawesome reporting. | `Cypress`, `JavaScript`, `GitHub Actions` | [vitor-masiero/cypress-reloop](https://github.com/vitor-masiero/cypress-reloop) |
+| **Playwright + MCP Agent Testing** | Intelligent E2E testing integration using Model Context Protocol (MCP) and autonomous agents for semantic test execution. | `Playwright`, `TypeScript`, `MCP`, `Claude` | [vitor-masiero/playwright-mcp-qa](https://github.com/vitor-masiero) |
+| **API Contract & Performance Testing** | Functional REST API testing with JSON Schema validation and k6 performance thresholds. | `Postman`, `k6`, `Java` / `Python` | [vitor-masiero/api-performance-suite](https://github.com/vitor-masiero) |
+
+---
+
+### GitHub Activity & Contributions
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vitor-masiero&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="170"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitor-masiero&theme=github-dark&hide_border=false" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+### Contact & Links
+
+- **LinkedIn:** [linkedin.com/in/jose-vitor-masiero](https://www.linkedin.com/in/jose-vitor-masiero)
+- **Email:** [masierojosevitor456@gmail.com](mailto:masierojosevitor456@gmail.com)
+- **Location:** Tubarão, SC - Brazil (Open for Remote & Global Opportunities)
