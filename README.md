@@ -72,9 +72,9 @@ Currently, I focus on advancing Quality Engineering into autonomous workflows: *
 
 | Project | Description | Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **Cypress E2E Suite** | E2E automation framework for SaaS products, featuring Page Object Model, API mocks, and Mochawesome reporting. | `Cypress`, `JavaScript`, `GitHub Actions` | [vitor-masiero/cypress-reloop](https://github.com/vitor-masiero/cypress-reloop) |
-| **Playwright + MCP Agent Testing** | Intelligent E2E testing integration using Model Context Protocol (MCP) and autonomous agents for semantic test execution. | `Playwright`, `TypeScript`, `MCP`, `Claude` | [vitor-masiero/playwright-mcp-qa](https://github.com/vitor-masiero) |
-| **API Contract & Performance Testing** | Functional REST API testing with JSON Schema validation and k6 performance thresholds. | `Postman`, `k6`, `Java` / `Python` | [vitor-masiero/api-performance-suite](https://github.com/vitor-masiero) |
+| **Cypress E2E Suite** | E2E automation framework for SaaS products, featuring Page Object Model, API mocks, accessibility testing (axe), SAST (Semgrep), and Mochawesome reporting. | `Cypress`, `JavaScript`, `axe-core`, `Semgrep` | [vitor-masiero/cypress-reloop](https://github.com/vitor-masiero/cypress-reloop) |
+| **API Contract & Performance Testing** | REST API testing suite with Spring Boot 3, JWT auth, Docker, and CI/CD via GitHub Actions — functional, integration, and security tests. | `Java`, `Spring Boot`, `Postman`, `Docker`, `GitHub Actions` | [vitor-masiero/login-auth-api](https://github.com/vitor-masiero/login-auth-api) |
+| **FastAPI Lead Integration** | Automated lead-to-Trello pipeline with API key auth, webhook processing, Pydantic validation, and Docker deployment. | `Python`, `FastAPI`, `Pydantic`, `Docker` | [vitor-masiero/liderhub-trello-api](https://github.com/vitor-masiero/liderhub-trello-api) |
 
 ---
 
